@@ -1,0 +1,4 @@
+include ':Model'
+include ':FileExhibitsLoader'
+include ':Application'
+rootProject.name = "ExhibitApp"
